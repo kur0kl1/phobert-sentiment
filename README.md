@@ -30,13 +30,6 @@ The script downloads the dataset automatically from HuggingFace, fine-tunes PhoB
 
 Note: training is significantly faster on GPU (~10-15 min on a free Colab GPU vs 1-2 hrs on CPU).
 
-Project structure
-
-.
-├── phobert_finetune.py     # training & evaluation script
-├── requirements.txt
-└── README.md
-
 References
 
 
